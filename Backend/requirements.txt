@@ -1,0 +1,8 @@
+fastapi==0.104.0
+transformers==4.52.4
+peft==0.15.2
+boto3==1.28.38
+safetensors>=0.4.3
+numpy>=1.22.0
+torch>=2.0.0
+uvicorn>=0.23.0
